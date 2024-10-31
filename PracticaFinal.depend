@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1685035251 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\baralla.cpp
+	"Baralla.h"
+	"Joc.h"
+	"Carta.h"
+
+1685458111 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\baralla.h
+	"Carta.h"
+
+1685472734 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\carta.h
+	<iostream>
+
+1685465896 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\joc.h
+	"Jugador.h"
+	"Tauler.h"
+	"PilaCartes.h"
+	"Seguidors.h"
+
+1685462173 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\jugador.h
+	<string>
+	"Baralla.h"
+	"Seguidors.h"
+
+1685460787 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\tauler.h
+	"Carta.h"
+	"Baralla.h"
+	"PilaCartes.h"
+
+1685465328 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\pilacartes.h
+	"Carta.h"
+
+1685472734 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\carta.cpp
+	"Carta.h"
+
+1685476634 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\joc.cpp
+	"Joc.h"
+	"Jugador.h"
+	"Baralla.h"
+	"Tauler.h"
+	"PilaCartes.h"
+	"Seguidors.h"
+	<iostream>
+	<string>
+	<limits>
+	<iomanip>
+
+1685471873 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\jugador.cpp
+	"Jugador.h"
+	<limits>
+	<iostream>
+	<string>
+	"Baralla.h"
+	"Seguidors.h"
+
+1685476744 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\main.cpp
+	<iostream>
+	"Joc.h"
+	<limits>
+
+1685469366 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\pilacartes.cpp
+	"PilaCartes.h"
+	"Carta.h"
+
+1685476634 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\seguidors.cpp
+	"Seguidors.h"
+	<iostream>
+
+1685457751 c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\seguidors.h
+	"Carta.h"
+
+1685465333 source:c:\users\didac\desktop\codeblocks\2n quatrrimestre\practicafinal\tauler.cpp
+	"Tauler.h"
+	<iomanip>
+
